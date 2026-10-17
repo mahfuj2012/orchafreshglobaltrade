@@ -1,0 +1,6 @@
+{
+  "name": "OrchaFresh Global Trade",
+  "description": "OrchaFresh Global Trade exports fresh fruit and vegetables from Bangladesh: own-farm mango and tomato plus seasonal and year-round produce.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
